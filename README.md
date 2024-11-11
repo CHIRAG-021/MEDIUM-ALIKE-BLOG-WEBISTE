@@ -1,2 +1,2 @@
 # MEDIUM-ALIKE-BLOG-WEBISTE
- 
+A Medium-like website is a blogging platform for publishing and reading articles. It features a rich text editor for writing, user authentication for profile management, and content organization using tags. Readers can interact through comments and reactions, and the platform offers a personalized feed based on user interests. It usually has a responsive design for both desktop and mobile devices. The tech stack commonly includes React for the frontend and Node.js or Hono for the backend, with a database like PostgreSQL 
